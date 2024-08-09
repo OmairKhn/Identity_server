@@ -71,3 +71,4 @@ D:\CODE\qStartIS\src\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImp
 D:\CODE\qStartIS\src\IdentityServer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\CODE\qStartIS\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorTargetAssemblyInfo.cs
 D:\CODE\qStartIS\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.Views.pdb
+D:\CODE\qStartIS\src\IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
