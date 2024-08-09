@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KRe3gL7o58VVdliOAgpnWvhOSQqbyqjltnAROdaVXkJS6ZhUcQOFIaMnwKOeVLlQXUPQIdxgJMu31/aDJ5/jnQ==",
+  "dgSpecHash": "vv4kZxuVw9TZ92Fbh06E4dRX+NyITUViWxjqD2pt2VwqXj3LogNVUho/avaFwK3oJx5pKLdZNvoZ5g2yh8/6hA==",
   "success": true,
   "projectFilePath": "D:\\CODE\\qStartIS\\src\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\identityserver4.storage\\4.0.0\\identityserver4.storage.4.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.32\\microsoft.aspnetcore.authentication.google.3.1.32.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.server.abstractions.2.0.0.nupkg.sha512",

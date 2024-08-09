@@ -4,8 +4,8 @@ using System.Linq;
 
 namespace Api.Controllers
 {
+    [Authorize(Policy = "api1")]
     [Route("identity")]
-    [Authorize]
     public class IdentityController : ControllerBase
     {
         [HttpGet]
