@@ -33,3 +33,6 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 ../vs
+/.vs/qStartIS/config/applicationhost.config
+/.vs/qStartIS/DesignTimeBuild/.dtbcache.v2
+/.vs/qStartIS/v17/.futdcache.v2
