@@ -26,7 +26,7 @@ namespace Api
                     options.Authority = "https://localhost:5001";
 
                     options.TokenValidationParameters = new TokenValidationParameters
-                    {
+                    {   
                         ValidateAudience = false,
                     };
                 });
@@ -37,13 +37,27 @@ namespace Api
                     policy.RequireAuthenticatedUser();
                     policy.RequireClaim("scope", "api1");
                 });
-            });     
-        }
+            });
+
+            services.AddCors(options =>
+            {
+                // this defines a CORS policy called "default"
+                options.AddPolicy("default", policy =>
+                {
+                    policy.WithOrigins("https://localhost:5003")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowAnyOrigin();
+                });
+            });
+    }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app)
         {
             app.UseRouting();
+            app.UseCors("default");
 
             app.UseAuthentication();
             app.UseAuthorization();
@@ -51,7 +65,7 @@ namespace Api
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers()
-                    .RequireAuthorization();
+                    .RequireAuthorization("ApiScope");
             });
         }
     }
