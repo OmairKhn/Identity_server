@@ -110,3 +110,6 @@
 /src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.MvcClient.Microsoft.AspNetCore.StaticWebAssets.props
 /src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/MvcClient.StaticWebAssets.Manifest.cache
 /src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/MvcClient.StaticWebAssets.Pack.cache
+/.vs/qStartIS/DesignTimeBuild/.dtbcache.v2
+/.vs/qStartIS/FileContentIndex/f3b7c26b-28b5-4ebb-a06f-6defc81dd043.vsidx
+/.vs/qStartIS/v17/.suo
