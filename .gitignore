@@ -1,136 +1,20 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs/qStartIS/FileContentIndex/592823cd-e616-45f4-b665-77896bffb273.vsidx
-/.vs/qStartIS/FileContentIndex/870a6d07-6630-4c84-97c6-45da070acf63.vsidx
-/.vs/qStartIS/FileContentIndex/af78d599-106f-47e1-b20a-6c234ff1c32b.vsidx
-/src/Api/obj/Debug/netcoreapp3.1/project.razor.vs.json
-/src/IdentityServer/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll
-/src/IdentityServer/obj/Debug/netcoreapp3.1/project.razor.vs.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/appsettings.Development.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/appsettings.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/JavaScriptClient.deps.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/JavaScriptClient.dll
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/JavaScriptClient.exe
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/JavaScriptClient.pdb
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/JavaScriptClient.runtimeconfig.dev.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/JavaScriptClient.runtimeconfig.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/package-lock.json
-/src/JavaScriptClient/bin/Debug/netcoreapp3.1/package.json
-/src/JavaScriptClient/node_modules/acorn/bin/acorn
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/apphost.exe
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.AssemblyInfo.cs
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.AssemblyInfoInputs.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.assets.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.csproj.BuildWithSkipAnalyzers
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.csproj.CoreCompileInputs.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.csproj.FileListAbsolute.txt
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.dll
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.GeneratedMSBuildEditorConfig.editorconfig
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.genruntimeconfig.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.MvcApplicationPartsAssemblyInfo.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.pdb
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/JavaScriptClient.RazorTargetAssemblyInfo.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/staticwebassets/JavaScriptClient.StaticWebAssets.Manifest.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/staticwebassets/JavaScriptClient.StaticWebAssets.Pack.cache
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.JavaScriptClient.props
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.JavaScriptClient.props
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.JavaScriptClient.props
-/src/JavaScriptClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.JavaScriptClient.Microsoft.AspNetCore.StaticWebAssets.props
-/src/JavaScriptClient/obj/JavaScriptClient.csproj.nuget.dgspec.json
-/src/JavaScriptClient/obj/JavaScriptClient.csproj.nuget.g.props
-/src/JavaScriptClient/obj/JavaScriptClient.csproj.nuget.g.targets
-/src/JavaScriptClient/obj/project.assets.json
-/src/JavaScriptClient/obj/project.nuget.cache
-/src/MvcClient/bin/Debug/netcoreapp3.1/appsettings.Development.json
-/src/MvcClient/bin/Debug/netcoreapp3.1/appsettings.json
-/src/MvcClient/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.deps.json
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.exe
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.pdb
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.runtimeconfig.dev.json
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.runtimeconfig.json
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.Views.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/MvcClient.Views.pdb
-/src/MvcClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
-/src/MvcClient/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
-/src/MvcClient/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
-/src/MvcClient/obj/Debug/net7.0/MvcClient.AssemblyInfo.cs
-/src/MvcClient/obj/Debug/net7.0/MvcClient.AssemblyInfoInputs.cache
-/src/MvcClient/obj/Debug/net7.0/MvcClient.assets.cache
-/src/MvcClient/obj/Debug/net7.0/MvcClient.GeneratedMSBuildEditorConfig.editorconfig
-/src/MvcClient/obj/Debug/net7.0/MvcClient.GlobalUsings.g.cs
-/src/MvcClient/obj/Debug/net7.0/MvcClient.RazorAssemblyInfo.cache
-/src/MvcClient/obj/Debug/net7.0/MvcClient.RazorAssemblyInfo.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Shared
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Shared/json.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/apphost.exe
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.AssemblyInfo.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.AssemblyInfoInputs.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.assets.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.csproj.AssemblyReference.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.csproj.BuildWithSkipAnalyzers
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.csproj.CopyComplete
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.csproj.CoreCompileInputs.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.csproj.FileListAbsolute.txt
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.dll
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.GeneratedMSBuildEditorConfig.editorconfig
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.genruntimeconfig.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.MvcApplicationPartsAssemblyInfo.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.pdb
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.RazorAssemblyInfo.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.RazorAssemblyInfo.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.RazorCoreGenerate.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.RazorTargetAssemblyInfo.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.RazorTargetAssemblyInfo.cs
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.TagHelpers.input.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.TagHelpers.output.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.Views.dll
-/src/MvcClient/obj/Debug/netcoreapp3.1/MvcClient.Views.pdb
-/src/MvcClient/obj/Debug/netcoreapp3.1/project.razor.vs.json
-/src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.MvcClient.props
-/src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.MvcClient.props
-/src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.MvcClient.props
-/src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.MvcClient.Microsoft.AspNetCore.StaticWebAssets.props
-/src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/MvcClient.StaticWebAssets.Manifest.cache
-/src/MvcClient/obj/Debug/netcoreapp3.1/staticwebassets/MvcClient.StaticWebAssets.Pack.cache
-/.vs/qStartIS/DesignTimeBuild/.dtbcache.v2
-/.vs/qStartIS/FileContentIndex/f3b7c26b-28b5-4ebb-a06f-6defc81dd043.vsidx
-/.vs/qStartIS/v17/.suo
-
-
-# From .NET Core 3.0 you can use the command: `dotnet new gitignore` to generate a customizable .gitignore file
-
-*.swp
-*.*~
-project.lock.json
-.DS_Store
-*.pyc
-
-# Visual Studio Code
-.vscode
+## Ignore Visual Studio temporary files, build results, and
+## files generated by popular Visual Studio add-ons.
+##
+## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
+*.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
 
 # Build results
 [Dd]ebug/
@@ -139,14 +23,341 @@ project.lock.json
 [Rr]eleases/
 x64/
 x86/
-build/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 bld/
 [Bb]in/
 [Oo]bj/
-msbuild.log
-msbuild.err
-msbuild.wrn
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
 
-# Visual Studio 2015
+# Visual Studio 2015/2017 cache/options directory
 .vs/
-../vs
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Trace Files
+*.e2e
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# AxoCover is a Code Coverage Tool
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet is a free, cross platform Code Coverage Tool
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# Note: Comment the next line if you want to checkin your web deploy settings,
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# checkin your Azure Web App publish settings, but sensitive information contained
+# in these scripts will be unencrypted
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Including strong name files can present a security risk
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.snk
+
+# Since there are multiple workflows, uncomment next line to ignore bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_components/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+*.vbw
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# CodeRush personal settings
+.cr/personal
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
